@@ -1,0 +1,238 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+
+.header{
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+.navbarwhite{
+    width: 100%;
+}
+
+.header img{
+    width: 40px;
+    height: 45px;
+}
+.header a{
+    font-size: 18px;
+}
+
+.header button{
+    width: 130px;
+    height: 45px;
+    border: 2px solid  rgb(0,48,135);
+    color:  rgb(0,48,135);
+    font-size: 18px;
+    border-radius: 30px;
+    background-color: white;
+    margin: 20px 8px;
+}
+
+#bluebtn{
+    background-color:  rgb(0,48,135);
+    color: white;
+}
+form li{
+    list-style: none;
+}
+
+
+.hero1{
+    padding-left: 200px;
+    padding-top: 100px;
+    background-color: rgb(20,44,142);
+    height: 87vh;
+    background-image: url(./images/background-swirls.png);
+    background-size: cover;
+    background-position:  0 -150px;
+}
+
+.hero1 h1{
+    font-size: 90px;
+    color: white;
+
+}
+
+.hero1 a{
+    font-size: 22px;
+    text-decoration: none;
+    color: rgb(86,204,254);
+    margin-top: -30px;   
+}
+
+
+.hero1 p{
+    color: white;
+    font-size: 20px;
+    margin-top: -20px;
+}
+
+#hero1image{
+   position: absolute;
+   width: 490px;
+   height: 450px;
+   left: 1000px;
+   top: 332px;
+}
+
+.heroflex img{
+    width: 150px;
+    height: 150px;
+}
+
+.heroflex p{
+    color: white;
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+.heroflex button{
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 30px;
+}
+
+.numinput{
+    width: 230px;
+    height: 50px;
+    background-color: white;
+    border: 2px solid black;
+}
+
+.numinput i{
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.numinput input{
+    outline: none;
+    border: none;
+    width: 190px;
+    padding: 5px 3px;
+
+}
+
+
+.hero2{
+    height: 90vh;
+}
+.hero2 img{
+    width: 700px;
+    height: 600px;
+}
+
+.hero2 h1{
+    font-size: 50px;
+}
+.hero2 p{
+    font-size: 20px;
+}
+.hero2 a{
+    font-size: 18px;
+    text-decoration: none;
+}
+
+
+
+
+
+.hero2{
+    height: 90vh;
+}
+.hero3 img{
+    width: 700px;
+    height: 600px;
+}
+
+.hero3 h1{
+    font-size: 50px;
+}
+.hero3 p{
+    font-size: 20px;
+    font-weight: 600;
+}
+.hero3 a{
+    font-size: 18px;
+    text-decoration: none;
+}
+
+#smallpara{
+    font-size: 15px;
+    
+}
+
+
+
+
+
+.hero4 img{
+    width: 600px;
+    height: 400px;
+}
+
+.hero4 h1{
+    font-size: 50px;
+}
+.hero4 p{
+    font-size: 20px;
+    font-weight: 600;
+}
+.hero4 a{
+    font-size: 18px;
+    text-decoration: none;
+}
+
+
+
+
+.hero5 img{
+    width: 600px;
+    height: 500px;
+}
+
+.hero5 h1{
+    font-size: 50px;
+}
+.hero5 p{
+    font-size: 20px;
+    font-weight: 600;
+}
+.hero5 a{
+    font-size: 18px;
+    text-decoration: none;
+}
+
+
+
+
+
+
+.hero6 img{
+    width: 600px;
+    height: 400px;
+}
+
+.hero6 h1{
+    font-size: 50px;
+}
+.hero6 p{
+    font-size: 20px;
+    font-weight: 600;
+}
+.hero6 a{
+    font-size: 18px;
+    text-decoration: none;
+}
